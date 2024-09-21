@@ -2,7 +2,7 @@
 # Taller en Parejas: Creación de una API REST con Express.js
 
 # John Rojas - Daniel Mártin
-#MAIN - [https://express-js-routing-grupoalfadinamitaescuadronlobo-nk6pzwckb.vercel.app/](https://vercel1234-102r5htj6-johnrojas0628s-projects.vercel.app/)
+# Link Principal - [https://express-js-routing-grupoalfadinamitaescuadronlobo-nk6pzwckb.vercel.app/](https://vercel1234-102r5htj6-johnrojas0628s-projects.vercel.app/)
 
 #### Rutas de Usuarios:
 - `users`: https://vercel1234-102r5htj6-johnrojas0628s-projects.vercel.app/users
