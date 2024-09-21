@@ -1,4 +1,18 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2snmTAKG)
 # Taller en Parejas: Creación de una API REST con Express.js
+
+# John Rojas - Daniel Mártin
+# Link Principal - [https://express-js-routing-grupoalfadinamitaescuadronlobo-nk6pzwckb.vercel.app/](https://vercel1234-102r5htj6-johnrojas0628s-projects.vercel.app/)
+
+#### Rutas de Usuarios:
+- `users`: https://vercel1234-102r5htj6-johnrojas0628s-projects.vercel.app/users
+
+#### Rutas de Productos:
+- `products`: https://vercel1234-102r5htj6-johnrojas0628s-projects.vercel.app/products
+
+#### Rutas de Pedidos:
+- `orders`: https://vercel1234-102r5htj6-johnrojas0628s-projects.vercel.app/orders
+
 
 Este proyecto consiste en un reto de desarrollo backend en el que se debe crear una API REST utilizando el framework Express.js. El objetivo principal es que los estudiantes implementen múltiples rutas utilizando `express.Router()` para organizar su código de manera modular.
 
